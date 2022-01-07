@@ -8,6 +8,5 @@ My name is Marvin, i'm 15 years old and a german web developer. Currently I lear
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate with young startups
 - 🤔 I’m looking for help with designs for my web applications
-- 💬 Ask me about Webdevelopment
 - ⚡ Fun fact: I like programming hehe
 
