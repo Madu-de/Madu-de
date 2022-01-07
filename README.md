@@ -10,3 +10,4 @@ My name is Marvin, i'm 15 years old and a german web developer. Currently I lear
 - 🤔 I’m looking for help with designs for my web applications
 - ⚡ Fun fact: I like programming hehe
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madu-de)](https://github.com/anuraghazra/github-readme-stats)
