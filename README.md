@@ -13,4 +13,8 @@
 - 🤔 I’m looking for help with designs for my web applications
 - ⚡ Fun fact: I like programming hehe
 
+<br>
+
+## Statics
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madu-de)](https://github.com/anuraghazra/github-readme-stats)
