@@ -1,4 +1,10 @@
-# Hi there 👋
+<p align="center">
+ <img width="100px" src="https://avatars.githubusercontent.com/u/85842735?v=4" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">Marvin</h2>
+ <p align="center">Webdevelopment</p>
+</p>
+<br>
+<br>
 
 ## About me
 
