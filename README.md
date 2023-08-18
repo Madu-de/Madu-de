@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend Web Development<br>🌱 I’m currently learning Angular<br>⚡ Fun fact: I like programming hehe
+🔭 I’m currently working on my socialmedia application MaduChat<br>🌱 I’m currently learning Angular and Nest.js<br>⚡ Fun fact: I like programming hehe
 
 
 # 💻 Tech Stack:
