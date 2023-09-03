@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my socialmedia application MaduChat and my own book named 'How-To-WWW'<br>🌱 I’m currently learning Angular and Nest.js<br>⚡ Fun fact: I like programming hehe
+🔭 I’m currently working on my socialmedia application MaduChat and my own book named '[How-To-WWW](https://github.com/Madu-de/how-to-www)'<br>🌱 I’m currently learning Angular and Nest.js<br>⚡ Fun fact: I like programming hehe
 
 
 # 💻 Tech Stack:
