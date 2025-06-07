@@ -1,9 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Linkery](https://github.com/link-bakery)
-
-🌱 I am training to become a Computer Science Expert, Subject Area: Software Development
-
-⚡ Fun fact: I like programming and love to try new stuff
+🔭 I’m currently working on [Linkery](https://github.com/link-bakery)<br>🌱 I am training to become a Computer Science Expert, Subject Area: Software Development<br>⚡ Fun fact: I like programming and love to try new stuff
 
 
 # 💻 Tech Stack:
